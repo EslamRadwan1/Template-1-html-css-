@@ -173,7 +173,7 @@ body {
   background-image: url("../images/landing-cover.jpg");
   background-size: cover;
   background-position: center;
-  height: calc(100vh);
+  height: 100dvh;
   position: relative;
 }
 .landing .intro-text {
